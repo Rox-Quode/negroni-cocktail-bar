@@ -47,7 +47,8 @@ h1,h2,h3,h4,h5,h6,p, a {
 
 .column-separator { border-right: 2px solid white;}
 
-.bg-featured   { background-color: #18303a;  }
+.bg-featured { background-color: #18303a; }
+  
 .bg-dark       { background-color: #24282B;  }
 
 .light-text    { color: white;   } 
